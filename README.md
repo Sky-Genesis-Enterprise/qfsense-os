@@ -2,7 +2,7 @@
 
 **QFSense** is an alternative distribution of **pfSense®**, designed to integrate within a broader ecosystem (Giteria platform, cloud, edge, data center) while offering a modernized interface, extended API capabilities, and native interoperability with other security and network administration tools.
 
-> 🔐 QFSense positions itself as a modern, open-source, and scalable firewall/router solution — built for developers, SMBs, sysadmins, service providers, and embedded infrastructure.
+> 🔐 QFSense is a modern, open-source, scalable firewall/router solution designed for developers, SMEs, system administrators, service providers and embedded infrastructures. It is developed and maintained primarily by (Sky Genesis Enterprise)[https://skygenesisenterprise.com]
 
 ---
 
